@@ -11,4 +11,5 @@
 10-back - to return to previous directory
 11-lists - to list both hidden and unhidden files in pwd, parent of pwd and /boot
 12-file_type - to print the type of file named iamafile is
+13-symbolic_link - to link /bin/ls __ls__
 
