@@ -3,3 +3,4 @@
 2-bring_me_home - to return to home directory
 3-listfiles - to list all the files in long format
 4-listmorefiles - to list all files inculding hidden files
+5-listfilesdigitonly - to list files in a digit format
