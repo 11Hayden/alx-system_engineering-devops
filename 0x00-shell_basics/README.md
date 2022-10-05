@@ -5,3 +5,4 @@
 4-listmorefiles - to list all files inculding hidden files
 5-listfilesdigitonly - to list files in a digit format
 6-firstdirectory - to create a directory in /tmp/
+7-movethatfile - to move betty in tmp to my_first_directory in tmp
