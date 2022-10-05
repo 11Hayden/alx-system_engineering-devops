@@ -8,3 +8,4 @@
 7-movethatfile - to move betty in tmp to my_first_directory in tmp
 8-firstdelete - to delete betty in tmp/my_first_directory
 9-firstdirdeletion - to delete my first directory in tmp
+10-back - to return to previous directory
