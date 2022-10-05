@@ -16,3 +16,4 @@
 100-lets_move - to move files that begin withupper case alphabets
 101-clean_emacs - to delete files ending with ~
 102-tree - to make directory welcome/to/school
+103-commas - to list all the files and directory in pwd seperating them all with commas and ending directory with a /
