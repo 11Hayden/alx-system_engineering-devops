@@ -9,3 +9,5 @@
 8-firstdelete - to delete betty in tmp/my_first_directory
 9-firstdirdeletion - to delete my first directory in tmp
 10-back - to return to previous directory
+11-lists - to list both hidden and unhidden files in pwd, parent of pwd and /boot
+
