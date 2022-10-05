@@ -15,3 +15,4 @@
 14-copy_html - to copy all html files that are not present or not up to date in the parent of pwd from pwd
 100-lets_move - to move files that begin withupper case alphabets
 101-clean_emacs - to delete files ending with ~
+102-tree - to make directory welcome/to/school
