@@ -4,3 +4,4 @@
 3-new_owner - to change the owner of a file "hello" to betty
 4-empty - to create an empty file "hello"
 5-execute - to make file "hello" executable
+6-multiple_permissions - to make file "hello" executable for both owner and group and only readable for user
