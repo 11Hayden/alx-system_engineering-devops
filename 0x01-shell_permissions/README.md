@@ -8,3 +8,4 @@
 7-everybody - it makes user able to execute only, group owner able to read, execute and owner able to read, write and execute file "hello"
 8_Bond - to remove all permission from owner and group and give all permission to user
 9-John_Doe - to set file hello to -rwxr-x-wx
+10-mirror_permissions - to make hello mirrior the permissions of file olleh
