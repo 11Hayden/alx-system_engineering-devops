@@ -10,3 +10,4 @@
 9-John_Doe - to set file hello to -rwxr-x-wx
 10-mirror_permissions - to make hello mirrior the permissions of file olleh
 11-directories_permission - to assign execute permission to all sub directories in pwd
+12-directory_permissions - to make a dir called my_dir with permission 751
