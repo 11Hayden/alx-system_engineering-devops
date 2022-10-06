@@ -7,3 +7,4 @@
 6-multiple_permissions - to make file "hello" executable for both owner and group and only readable for user
 7-everybody - it makes user able to execute only, group owner able to read, execute and owner able to read, write and execute file "hello"
 8_Bond - to remove all permission from owner and group and give all permission to user
+9-John_Doe - to set file hello to -rwxr-x-wx
