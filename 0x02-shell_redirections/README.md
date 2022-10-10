@@ -5,3 +5,4 @@
 4-lastlines - to display the last 10 lines of /etc/passwd
 5-firstlines - to display the first 10 lines of /etc/passwd
 6-third_line - to display tge third of iacta
+7-file - to create a file and it should contain Best School
