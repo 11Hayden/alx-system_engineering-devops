@@ -7,3 +7,4 @@
 6-third_line - to display tge third of iacta
 7-file - to create a file and it should contain Best School
 8-cwd_state - to write the result command ls -la to file ls_cwd_content
+9-duplicate_last_line - to duplicate the last line of the file iacta
