@@ -4,3 +4,4 @@
 3-twofiles - to display the contebt of /etc/passwd and /etc/hosts
 4-lastlines - to display the last 10 lines of /etc/passwd
 5-firstlines - to display the first 10 lines of /etc/passwd
+6-third_line - to display tge third of iacta
