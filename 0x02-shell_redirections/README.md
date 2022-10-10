@@ -9,3 +9,4 @@
 8-cwd_state - to write the result command ls -la to file ls_cwd_content
 9-duplicate_last_line - to duplicate the last line of the file iacta
 10-no_more_js - to delete all js files and its sub directories
+11-directories - to count number of directories and subdirectories in current directories
