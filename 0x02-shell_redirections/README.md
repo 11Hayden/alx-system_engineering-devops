@@ -14,3 +14,8 @@
 13-unique - to collect list of words and print out words that appear once
 14-findthatword - to display lines containing the pattern "root"from the file /etc/passwd
 15-countthatword - to display the number of lines that contain the pattern "bin" in the fole /etc/passwd
+16-whatsnext - display lines containing the pattern root and 3 lines after them in the file /etc/passwd
+17-hidethisword - to display all lines in the file /etc/passwd that do not contain bin
+18-letteronly - display all lines in file /etc/ssh/sshd_config that start with a letter
+19-AZ - to replace all characters A and c from input to Z and e
+20-hiago - to remove all letters c and C from input
