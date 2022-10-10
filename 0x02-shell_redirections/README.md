@@ -10,4 +10,7 @@
 9-duplicate_last_line - to duplicate the last line of the file iacta
 10-no_more_js - to delete all js files and its sub directories
 11-directories - to count number of directories and subdirectories in current directories
-12-newest_files - to display the 10 new files in pwd
+12-newest_files - to display the 10 new files in pw 
+13-unique - to collect list of words and print out words that appear once
+14-findthatword - to display lines containing the pattern "root"from the file /etc/passwd
+15-countthatword - to display the number of lines that contain the pattern "bin" in the fole /etc/passwd
