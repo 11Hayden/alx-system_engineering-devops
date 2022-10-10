@@ -10,3 +10,4 @@
 9-duplicate_last_line - to duplicate the last line of the file iacta
 10-no_more_js - to delete all js files and its sub directories
 11-directories - to count number of directories and subdirectories in current directories
+12-newest_files - to display the 10 new files in pwd
