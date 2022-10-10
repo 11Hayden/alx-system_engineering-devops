@@ -8,3 +8,4 @@
 7-file - to create a file and it should contain Best School
 8-cwd_state - to write the result command ls -la to file ls_cwd_content
 9-duplicate_last_line - to duplicate the last line of the file iacta
+10-no_more_js - to delete all js files and its sub directories
