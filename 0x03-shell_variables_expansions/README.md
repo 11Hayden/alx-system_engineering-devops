@@ -4,3 +4,5 @@
 3-paths - to count the number of directories in the path
 4-global_variables - to display global variables
 5-local_variables - to display both the environment abd global variables
+6-create_local_variable - to create a local variable 'BEST' with value 'School'
+7-create_global_variable - to create a global variabld 'BEST' with value 'School'
