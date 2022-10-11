@@ -14,3 +14,4 @@
 13-print_float - to print a number with 2 d.p then a new line
 100-decimal_to_hexadecimal - to convert from decimal to hex
 101-rot13 - a script that encodes and decodes a text using the rot13 encryption
+102-odd - a script that prints every line from the input starting from the first line
