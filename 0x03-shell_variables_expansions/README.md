@@ -12,3 +12,5 @@
 11-binary_to_decimal - to converta number in base 2 to base 10
 12-combinations - to combine two letters abd print them out except oo
 13-print_float - to print a number with 2 d.p then a new line
+100-decimal_to_hexadecimal - to convert from decimal to hex
+101-rot13 - a script that encodes and decodes a text using the rot13 encryption
